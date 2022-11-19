@@ -1,1 +1,1 @@
-It is a new file
+It is a new file for conflict in special-branch
