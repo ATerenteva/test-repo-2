@@ -1,1 +1,2 @@
-its a file for conflict
+It is a new file for conflict in special-branch
+
